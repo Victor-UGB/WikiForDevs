@@ -1,0 +1,1 @@
+for photo editing and graphics creation

@@ -1,0 +1,1 @@
+firebase is a backend as a service software used by developers to automate several backend activities
